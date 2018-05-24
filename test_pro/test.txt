@@ -1,2 +1,6 @@
 runoob.com
+<<<<<<< HEAD
 master,info
+=======
+hello,word
+>>>>>>> fenzhi
